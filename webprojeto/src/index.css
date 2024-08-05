@@ -1,0 +1,14 @@
+
+
+body {
+   
+  background-repeat: no-repeat;
+  background-size: cover;
+ background-image: url('./src/IMG/bg-login.jpg');
+    
+}
+header {
+    background-color: rgba(247, 222, 0, 0);
+}
+
+
