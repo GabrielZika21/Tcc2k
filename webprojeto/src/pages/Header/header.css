@@ -19,7 +19,7 @@ header{
     cursor: pointer;
     background-color: rgba(255, 255, 255, 0);
     padding: 5px 14px;
-    color:rgb(0, 0, 0);
+    color:rgb(255, 255, 255);
     border-radius: 4px;
     font-size:20px;
 }
@@ -28,7 +28,7 @@ header{
     cursor: pointer;
     background-color: rgba(255, 255, 255, 0);
     padding: 5px 14px;
-    color:rgba(0, 0, 0, 0.986);
+    color:rgba(255, 255, 255, 0.986);
     border-radius: 4px;
     font-size:20px;
 }
